@@ -6,7 +6,7 @@ local Camera = workspace.CurrentCamera
 local localPlayer = Players.LocalPlayer
 
 -- Configuration
-local TOGGLE_KEY = Enum.KeyCode.V -- Change this to your preferred key
+local TOGGLE_KEY = Enum.KeyCode.` -- Change this to your preferred key
 local isEnabled = false
 
 -- Create GUI
